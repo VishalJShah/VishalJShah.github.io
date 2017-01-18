@@ -1,0 +1,24 @@
+body {
+  font-family: 'helvetica neue', arial, sans-serif;
+  font-weight: 300;
+  background-color white-space:
+  background-repeat: no-repeat;
+  background-position: center;;
+  background-attachment: fixed;
+}
+.navbar {
+  background-color:black;
+  border-style: none;
+  font-family: 'Jura', sans-serif;
+}
+img.senses {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto; 
+}
+h1.intro {
+  font-family: 'Jura', sans-serif;
+  text-align: center;
+}
